@@ -2,7 +2,7 @@
 <package format="3">
   <name>unitree_g1_ros2</name>
   <version>1.0.0</version>
-  <description>The Unitree H1 Description Package</description>
+  <description>The Unitree G1 Description Package</description>
 
   <maintainer email="TODO@email.com">Your Name</maintainer>
   <license>TODO</license>
@@ -13,7 +13,6 @@
   <exec_depend>robot_state_publisher</exec_depend>
   <exec_depend>rviz2</exec_depend>
   <exec_depend>joint_state_publisher_gui</exec_depend>
-  <exec_depend>gazebo_ros</exec_depend>
   <exec_depend>rosidl_default_runtime</exec_depend>
   
   <exec_depend>rclcpp</exec_depend>
